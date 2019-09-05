@@ -1,0 +1,7 @@
+list:
+  - jobName: job1
+    jobGroup: jobGroup
+  - jobName: job2
+    jobGroup: jobGroup
+  - jobName: job3
+    jobGroup: jobGroup
