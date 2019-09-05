@@ -5,3 +5,5 @@ list:
     jobGroup: jobGroup
   - jobName: job3
     jobGroup: jobGroup
+  - jobName: job4
+    jobGroup: jobGroup
