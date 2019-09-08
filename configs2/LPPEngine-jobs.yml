@@ -1,4 +1,4 @@
-list:
+jobConfigurationList:
   - jobName: job1
     jobGroup: jobGroup
     apw: [1,19]
