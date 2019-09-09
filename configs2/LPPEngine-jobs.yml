@@ -38,4 +38,4 @@ jobConfigurationList:
     period: 0/10 * * * * ?
     apw: [60,89]
     los: [6,7]
-    hotelId: [20,30,84,24,99,100,2021]
+    hotelId: [20,30,84,24,99,100,2022]
