@@ -27,7 +27,15 @@ jobConfigurationList:
     jobGroup: jobGroup
     triggerName: trigger4
     triggerGroup: triggerGroup
-    period: 0/5 * * * * ?
+    period: 0/10 * * * * ?
     apw: [30,59]
+    los: [6,7]
+    hotelId: [20,30,84,24]
+  - jobName: job5
+    jobGroup: jobGroup
+    triggerName: trigger5
+    triggerGroup: triggerGroup
+    period: 0/10 * * * * ?
+    apw: [60,89]
     los: [6,7]
     hotelId: [20,30,84,24]
