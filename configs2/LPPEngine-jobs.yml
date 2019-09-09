@@ -23,11 +23,3 @@ jobConfigurationList:
     apw: [30,39]
     los: [5,6]
     hotelId: [1,88]
-  - jobName: job4
-    jobGroup: jobGroup
-    triggerName: trigger4
-    triggerGroup: triggerGroup
-    period: 0/15 * * * * ?
-    apw: [30,59]
-    los: [6,7]
-    hotelId: [20,30,84,24]
