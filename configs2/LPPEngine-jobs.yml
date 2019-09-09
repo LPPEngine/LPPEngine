@@ -15,7 +15,7 @@ jobConfigurationList:
     apw: [20,29]
     los: [4,5]
     hotelId: [2,3,84,24]
-  - jobName: job3
+  - jobName: job3(Test)
     jobGroup: jobGroup
     triggerName: trigger3
     triggerGroup: triggerGroup
