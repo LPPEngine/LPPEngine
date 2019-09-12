@@ -71,11 +71,3 @@ jobConfigurationList:
     apw: [60,89]
     los: [6,7]
     hotelId: [20,30,84,24,888]
-  - jobName: job10
-    jobGroup: jobGroup
-    triggerName: trigger10
-    triggerGroup: triggerGroup
-    period: 0/10 * * * * ?
-    apw: [60,89]
-    los: [6,7]
-    hotelId: [20,30,84,24,888]
