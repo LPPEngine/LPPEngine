@@ -1,8 +1,9 @@
+feedJobConfigurationList:
   - jobName: job9
-    jobGroup: jobGroup
+    jobGroup: feedJobGroup
     jobType: FeedJob
     triggerName: trigger9
-    triggerGroup: triggerGroup
+    triggerGroup: feedTriggerGroup
     period: 0/10 * * * * ?
     apw: [60,89]
     los: [6,7]
