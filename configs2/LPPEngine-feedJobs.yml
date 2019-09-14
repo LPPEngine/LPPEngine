@@ -6,5 +6,5 @@ feedJobConfigurationList:
     triggerGroup: feedTriggerGroup
     period: 0/10 * * * * ?
     partner: Google
-    branad: HCOM
+    brand: HCOM
     pos: US_EN
