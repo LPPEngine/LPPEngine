@@ -1,5 +1,5 @@
 feed-job-configuration-list:
-    feedJobConfigurationList
+    feedJobConfigurationList:
       - jobName: job9
       jobGroup: feedJobGroup
       jobType: FeedJob
