@@ -1,11 +1,11 @@
 feed-job-configuration-list:
-    feedJobConfigurationList:
-      - jobName: job9
-      jobGroup: feedJobGroup
-      jobType: FeedJob
-      triggerName: trigger9
-      triggerGroup: feedTriggerGroup
-      period: 0/6 * * * * ?
-      partner: Google
-      brand: HCOM
-      pos: US_EN
+  feedJobConfigurationList:
+  - jobName: job9
+    jobGroup: feedJobGroup
+    jobType: FeedJob
+    triggerName: trigger9
+    triggerGroup: feedTriggerGroup
+    period: 0/6 * * * * ?
+    partner: Google
+    brand: HCOM
+    pos: US_EN
