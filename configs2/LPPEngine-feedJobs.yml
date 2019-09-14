@@ -4,7 +4,7 @@ feedJobConfigurationList:
     jobType: FeedJob
     triggerName: trigger9
     triggerGroup: feedTriggerGroup
-    period: 0/5 * * * * ?
+    period: 0/6 * * * * ?
     partner: Google
     brand: HCOM
     pos: US_EN
