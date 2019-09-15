@@ -8,4 +8,4 @@ feed-job-configuration-list:
     period: 0/4 * * * * ?
     partner: Google
     brand: HCOM
-    pos: US_EN
+    pos: US_CN
