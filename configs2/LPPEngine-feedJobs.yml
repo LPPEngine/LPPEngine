@@ -8,3 +8,12 @@
     partner: Google
     brand: HCOM
     pos: US_CN
+  - jobName: job10
+    jobGroup: feedJobGroup
+    jobType: FeedJob
+    triggerName: trigger10
+    triggerGroup: feedTriggerGroup
+    period: 0/4 * * * * ?
+    partner: Google
+    brand: HCOM
+    pos: US_EN
