@@ -1,4 +1,3 @@
-push-hotel-job-configuration:
   pushHotelJobConfigurationList:
     - jobName: job1
       jobGroup: pushHotelJobGroup
