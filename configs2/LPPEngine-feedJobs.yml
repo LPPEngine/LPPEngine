@@ -24,5 +24,5 @@
     triggerGroup: feedTriggerGroup
     period: 0/4 * * * * ?
     partner: Google
-    brand: ECOM
+    brand: HCOM
     pos: US_EN
