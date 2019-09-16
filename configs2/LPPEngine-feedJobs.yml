@@ -26,12 +26,3 @@
     partner: Google
     brand: HCOM
     pos: US_EN
-  - jobName: job12
-    jobGroup: feedJobGroup
-    jobType: FeedJob
-    triggerName: trigger12
-    triggerGroup: feedTriggerGroup
-    period: 0/4 * * * * ?
-    partner: Google
-    brand: ECOM
-    pos: US_EN
