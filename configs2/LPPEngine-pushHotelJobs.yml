@@ -62,12 +62,12 @@
       apw: [60,89]
       los: [6,7]
       hotelId: [20,30,84,24,666]
-    - jobName: job8
-      jobGroup: pushHotelJobGroup
-      jobType: PushHotelJob
-      triggerName: trigger8
-      triggerGroup: pushHotelTriggerGroup
-      period: 0/10 * * * * ?
-      apw: [60,89]
-      los: [6,7]
-      hotelId: [20,30,84,24,666]
+#    - jobName: job8
+#      jobGroup: pushHotelJobGroup
+#      jobType: PushHotelJob
+#      triggerName: trigger8
+#      triggerGroup: pushHotelTriggerGroup
+#      period: 0/10 * * * * ?
+#      apw: [60,89]
+#      los: [6,7]
+#      hotelId: [20,30,84,24,666]
