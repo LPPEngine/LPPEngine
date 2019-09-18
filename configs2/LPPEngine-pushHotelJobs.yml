@@ -1,67 +1,67 @@
   pushHotelJobConfigurationList:
-#    - jobName: job1
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger1
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/20 * * * * ?
-#      apw: [1,19]
-#      los: [1,3]
-#      hotelId: [888,666,999,10086]
-#    - jobName: job2
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger2
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/30 * * * * ?
-#      apw: [20,29]
-#      los: [4,5]
-#      hotelId: [2,3,84,24]
-#    - jobName: job3
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger3
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/30 * * * * ?
-#      apw: [30,39]
-#      los: [5,6]
-#      hotelId: [1,88]
-#    - jobName: job4
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger4
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/40 * * * * ?
-#      apw: [30,59]
-#      los: [6,7]
-#      hotelId: [20,30,84,27]
-#    - jobName: job5
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger5
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/5 * * * * ?
-#      apw: [60,89]
-#      los: [6,7]
-#      hotelId: [20,30,84,24,666]
-#    - jobName: job6
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger6
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/10 * * * * ?
-#      apw: [60,89]
-#      los: [6,7]
-#      hotelId: [20,30,84,24,666]
-#    - jobName: job7
-#      jobGroup: pushHotelJobGroup
-#      jobType: PushHotelJob
-#      triggerName: trigger7
-#      triggerGroup: pushHotelTriggerGroup
-#      period: 0/10 * * * * ?
-#      apw: [60,89]
-#      los: [6,7]
-#      hotelId: [20,30,84,24,9999999]
+    - jobName: job1
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger1
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/20 * * * * ?
+      apw: [1,19]
+      los: [1,3]
+      hotelId: [888,666,999,10086]
+    - jobName: job2
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger2
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/30 * * * * ?
+      apw: [20,29]
+      los: [4,5]
+      hotelId: [2,3,84,24]
+    - jobName: job3
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger3
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/30 * * * * ?
+      apw: [30,39]
+      los: [5,6]
+      hotelId: [1,88]
+    - jobName: job4
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger4
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/40 * * * * ?
+      apw: [30,59]
+      los: [6,7]
+      hotelId: [20,30,84,27]
+    - jobName: job5
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger5
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/5 * * * * ?
+      apw: [60,89]
+      los: [6,7]
+      hotelId: [20,30,84,24,666]
+    - jobName: job6
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger6
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/10 * * * * ?
+      apw: [60,89]
+      los: [6,7]
+      hotelId: [20,30,84,24,666]
+    - jobName: job7
+      jobGroup: pushHotelJobGroup
+      jobType: PushHotelJob
+      triggerName: trigger7
+      triggerGroup: pushHotelTriggerGroup
+      period: 0/10 * * * * ?
+      apw: [60,89]
+      los: [6,7]
+      hotelId: [20,30,84,24,9999999]
 #    - jobName: job8
 #      jobGroup: pushHotelJobGroup
 #      jobType: PushHotelJob
